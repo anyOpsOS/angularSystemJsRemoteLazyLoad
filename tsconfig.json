@@ -12,6 +12,24 @@
     },
     {
       "path": "./tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lazy-a/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lazy-a/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lazy-b/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lazy-b/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/lazy-c/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/lazy-c/tsconfig.spec.json"
     }
 ]
 }
